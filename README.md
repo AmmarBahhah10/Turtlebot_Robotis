@@ -29,13 +29,8 @@ Please follow the [PC Setup](https://emanual.robotis.com/docs/en/platform/turtle
 ![002](https://user-images.githubusercontent.com/101488769/183254106-e2e0ef6f-f6f8-42e7-beb1-20b2c2385492.png)
 <br/>
 
-### 6.2 Run Teleoperation:
 
-
-![03](https://user-images.githubusercontent.com/101488769/183254268-c071018e-238d-4295-a0da-a13191d9e55c.png)
-<br/>
-
-### 6.3 Save the map:
+### 6.2 Save the map:
 
 
 ![003](https://user-images.githubusercontent.com/101488769/183255299-8d419137-7d54-4c37-ad62-7e5254e7df5b.png)
